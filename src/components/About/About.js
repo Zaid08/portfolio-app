@@ -1,4 +1,5 @@
 import './About.css';
+
 import mainImage from '../../images/mainImage.jpg'
 // import reactImg from '../../assets/concepts.png';
 export default function About({children}) {
@@ -13,7 +14,7 @@ export default function About({children}) {
             <h4 className="text-center text-xl font-bold">
                 Hi and welcome to
             </h4>
-            <h2 className="text-center text-emerald-500 text-5xl font-bold">
+            <h2 className="text-center  heading-style">
               My Portfolio Website
             </h2>
           </div>
