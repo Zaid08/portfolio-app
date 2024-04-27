@@ -13,32 +13,28 @@ export default function Navbar({name}) {
               <ul className="flex gap-3 align-center p-1 flex-wrap">
                   <li>
                       <a className="text-sm sm:text-base px-2 lg:px-5 
-                                    py-2 transition rounded hover:text-white 
-                                    hover:bg-emerald-600 "
+                                    py-2 transition rounded"
                          href="#about">
                       About
                       </a>
                   </li>
                   <li>
                       <a className="text-sm sm:text-base px-2 lg:px-5 py-2 
-                                    transition rounded hover:text-white 
-                                    hover:bg-emerald-600"
+                                    transition rounded"
                           href="#skills">
                           Skills
                       </a>
                   </li>
                   <li>
                       <a className="text-sm sm:text-base px-2 lg:px-5 py-2 
-                                    transition rounded hover:text-white 
-                                    hover:bg-emerald-600"
+                                    transition rounded"
                           href="#projects">
                           Projects
                       </a>
                   </li>
                   <li>
                       <a className="text-sm sm:text-base px-2 lg:px-5 py-2 
-                                    transition rounded hover:text-white 
-                                    hover:bg-emerald-600"
+                                    transition rounded"
                           href="#contact">
                           Contact
                       </a>
