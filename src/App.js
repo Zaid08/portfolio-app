@@ -20,7 +20,7 @@ function App() {
           <section className="px-10 w-full my-40 max-w-5xl mx-auto details" id="skills">
            
             
-            <h2 className="text-center text-6xl text-emerald-500 font-bold " >My Skills</h2>
+            <h2 className="text-center heading-style" >My Skills</h2>
               <ul>
                 {/* access array item dynamically */}
 
@@ -33,7 +33,7 @@ function App() {
           <section className="px-10 w-full my-40 max-w-5xl mx-auto details" id="projects">
           
             
-            <h2 className="text-center text-6xl text-emerald-500 font-bold" >My Projects</h2>
+            <h2 className="text-center heading-style" >My Projects</h2>
               <ul>
                 {/* access array item dynamically */}
                 {PROJECTS.map((Item) => <Projects key={Item.title} {...Item} />)}
