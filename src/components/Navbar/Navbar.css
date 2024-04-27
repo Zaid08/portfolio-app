@@ -7,3 +7,11 @@
     -webkit-text-fill-color: transparent;
     filter: drop-shadow(0 2px 8px rgba(0, 0, 0, 0.5));
   }
+
+ a{
+  color: #03d5ff;
+ }
+
+  a:hover{
+    color: #ea00ff;
+  }
