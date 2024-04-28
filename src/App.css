@@ -19,9 +19,9 @@ html {
   min-height: 80rem;
 }
 
-main {
-  width: 90%;
-  max-width: 50rem;
+.main {
+  width: 100%;
+  max-width: 60rem;
   margin: auto;
 }
 
@@ -63,7 +63,7 @@ main h2 {
 
 .details li h3 {
   margin: 0.5rem 0;
-} */
+} 
 
 .details li p {
   font-size: 0.9rem;
@@ -86,3 +86,13 @@ main h2 {
 span:hover{
   color: #ea00ff;
 }
+
+.container{
+  height: 2px;
+}
+
+/* #contact{
+  width: 90%;
+  max-width: 50rem;
+  margin: auto;
+} */

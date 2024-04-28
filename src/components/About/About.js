@@ -1,6 +1,6 @@
 import './About.css';
 
-import mainImage from '../../images/mainImage.jpg'
+import mainImage from '../../images/mainImg_1.png'
 // import reactImg from '../../assets/concepts.png';
 export default function About({children}) {
     return (
@@ -26,7 +26,7 @@ export default function About({children}) {
           <img src={mainImage}
   
                alt="Hello.svg"
-               className="w-full h-full bg-cover"/>
+               className="w-full  bg-cover"/>
         </div>
       </section>
     );
