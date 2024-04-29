@@ -13,7 +13,7 @@ export default function Contact() {
                    href=
 "https://www.linkedin.com/in/mohammed-hammad-zaid-b29190259/">
                     
-                    <span className="font-bold">
+                    <span>
                     Linkdin: www.linkedin.com/in/mohammed-hammad-zaid-b29190259
                     </span>
                 </a>
